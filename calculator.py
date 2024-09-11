@@ -10,6 +10,6 @@ elif m == "-":
 elif m =="/":
     result = int(a/b)
 else:
-    result = "invalid option"
+    result = "invalid options"
 print(result)
 
